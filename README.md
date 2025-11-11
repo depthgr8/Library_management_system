@@ -1,6 +1,6 @@
 # Library Management System in C
 
-## 📘 Overview
+##  Overview
 This project implements a simple **Library Management System** in the C programming language.  
 It allows users to:
 - Add a new book record
@@ -10,7 +10,7 @@ It allows users to:
 
 ---
 
-## 🧠 Problem-Solving Approach
+##  Problem-Solving Approach
 
 1. **Problem Understanding:**
    We need a program that maintains a small database of books. Each book has:
@@ -26,7 +26,7 @@ It allows users to:
 
 ---
 
-## 🧩 Manual Trace Example
+##  Manual Trace Example
 
 | Step | Action | Result |
 |------|---------|--------|
@@ -37,13 +37,13 @@ It allows users to:
 
 ---
 
-## 💻 Program Code
+##  Program Code
 
 See [`library_system.c`](library_system.c)
 
 ---
 
-## 🏃 How to Run
+##  How to Run
 
 ```bash
 gcc library_system.c -o library_system
@@ -52,7 +52,7 @@ gcc library_system.c -o library_system
 
 ---
 
-## 📄 License
+##  License
 
 MIT License
 
